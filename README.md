@@ -21,5 +21,5 @@ HTML,
 JavaScript,
 P5.JS
 
-# Credits
+# References
 https://www.youtube.com/watch?v=i-k04yzfMpw&t
