@@ -1,7 +1,7 @@
 # Logo-Interpreter
 Interpreter to interpret Logo commands and draw canvas
 
-An interpreter is made using p5.js in which the commands of logo language is parsed and executed by drawing on the canvas. The language logo was designed in 1967 for educational purposes, where a turtle moves on canvas based on the commands. Here in the interpreter only a subset of basic logo commands are dealt with. The commands are implemented are :
+An interpreter is made using p5.js in which the commands of logo language is parsed and executed by drawing on the canvas. The language logo was designed in 1967 for educational purposes, where a turtle moves on canvas based on the commands. Here in the interpreter only a subset of basic logo commands are dealt with. The commands which are implemented are :
 
 1. Movement commands like forward, backward, left and right.
 2. Pen Up and Pen Down Command
