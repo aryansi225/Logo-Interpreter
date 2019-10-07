@@ -22,4 +22,4 @@ JavaScript,
 P5.JS
 
 # Credits
-Inital Idea and code has come from -> https://www.youtube.com/watch?v=i-k04yzfMpw&t
+https://www.youtube.com/watch?v=i-k04yzfMpw&t
