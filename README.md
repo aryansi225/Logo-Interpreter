@@ -23,3 +23,12 @@ P5.JS
 
 # References
 https://www.youtube.com/watch?v=i-k04yzfMpw&t
+
+# My Original Contribution & Learnings
+
+Contribution =>
+Reimplemented features - forward, backward, left, right, pen up, pen down, repeat after watching the video as mentioned in the reference link.
+Implemented features - clear screen, pen color and screen color command as a continuation to the work.
+
+Major Learnings =>
+Learnt how to use p5.JS to interpret an input and draw based on that.
